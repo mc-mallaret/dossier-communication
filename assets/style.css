@@ -1,0 +1,64 @@
+/* Palette : https://coolors.co/dddddd-e6aeae-b6c649-2c4251-ffffff */
+
+body {
+  font-family: "Open Sans", sans-serif;
+  color: #2c4251;
+}
+
+em {
+  background: #ddd;
+  font-style: normal;
+}
+
+.remark-container {
+  background-color: #white;
+}
+
+.middle > h1 {
+  background-color: #b6c649;
+}
+
+:not(.middle) > h1 {
+  background: #e6aeae url("mc-mallaret-logo.png") bottom 0 right 30px no-repeat;
+  background-size: contain;
+  padding-left: 0.2em;
+}
+
+.remark-slide-content {
+  font-size: 18px;
+}
+
+.remark-slide-content h1 {
+  font-family: "Roboto", sans-serif;
+  font-weight: 300;
+  font-size: 44px;
+}
+
+.remark-slide-content h2 {
+  font-size: 36px;
+  font-weight: 300;
+}
+
+.remark-slide-number {
+  font-size: 0.67em;
+}
+
+.image-inseree img {
+  margin-top: 1em;
+  border: solid 1px black;
+  width: 100%;
+}
+
+.logo img {
+  margin-top: -4em;
+  margin-bottom: 2em;
+  width: 15%;
+}
+
+.footer {
+  position: absolute; bottom: 12px; left: 100px;
+  width: 72%;
+  font-size: 0.5em;
+  color: #888;
+  text-align: left;
+}
