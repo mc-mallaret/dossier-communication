@@ -1,0 +1,4 @@
+git pull // Pour récupérer les sources les plus récentes
+git add . // Pour prendre les modifications courantes pour préparer un nouveau commit
+git commit -m "Pourquoi je fais ça"
+git push // Pour partager mon travail avec tout le monde
