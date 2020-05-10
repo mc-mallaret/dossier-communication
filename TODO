@@ -1,4 +1,5 @@
 - sur le footer :
+<<<<<<< HEAD
 	- le centrer
 	- faire un retour à la ligne avant "Siège social"
 	- NE PAS prendre plus de place
@@ -6,3 +7,11 @@
 - sur le slide 4 / 22 :
 	- sur la photo, la désignation "forge, maison haute, maison basse" ne permet pas de distinguer les bâtiments
 	
+=======
+  - le centrer
+  - faire un retour à la ligne avant "Siège social"
+  - NE PAS prendre plus de place
+
+- sur le slide 4 / 22 :
+  - sur la photo, la désignation "forge, maison haute, maison basse" ne permet pas de distinguer les bâtiments
+>>>>>>> ab86b9bfa11acf75a1d8818cc95a024e823c584d
