@@ -5,9 +5,9 @@ body {
   color: #2c4251;
 }
 
-em {
+code {
   background: #ddd;
-  font-style: normal;
+  font-family: "Open Sans", sans-serif;
 }
 
 .remark-container {
